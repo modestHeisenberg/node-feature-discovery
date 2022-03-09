@@ -71,6 +71,7 @@
 #      - "ef"
 #      - "fe"
 #      - "ff"
+#      - "02"
 #    deviceLabelFields:
 #      - "class"
 #      - "vendor"
